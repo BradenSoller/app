@@ -1,0 +1,14 @@
+/Users/bradensoller/app/bin/Debug/net8.0/app
+/Users/bradensoller/app/bin/Debug/net8.0/app.deps.json
+/Users/bradensoller/app/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/bradensoller/app/bin/Debug/net8.0/app.dll
+/Users/bradensoller/app/bin/Debug/net8.0/app.pdb
+/Users/bradensoller/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradensoller/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/bradensoller/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/bradensoller/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/bradensoller/app/obj/Debug/net8.0/app.dll
+/Users/bradensoller/app/obj/Debug/net8.0/refint/app.dll
+/Users/bradensoller/app/obj/Debug/net8.0/app.pdb
+/Users/bradensoller/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/bradensoller/app/obj/Debug/net8.0/ref/app.dll
